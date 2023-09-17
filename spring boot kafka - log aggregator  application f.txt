@@ -1,0 +1,5 @@
+*spring boot kafka - log aggregator (application for freight- tracking)
+
+[spring app creates log] -- > [kakfa groups] - > publish to file[based on id]
+
+
