@@ -1,0 +1,3 @@
+/workspaces/freight/src/main/java/com/ff/freight/controller/MessageController.java
+/workspaces/freight/src/main/java/com/ff/freight/service/KafkaService.java
+/workspaces/freight/src/main/java/com/ff/freight/FreightApplication.java
